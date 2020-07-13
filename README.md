@@ -1,6 +1,6 @@
 # CrudStarWars - API
 
-Projeto Final utilizando Spring Boot, e MongoDB.
+Projeto utilizando Spring Boot, e MongoDB.
 
 ## O problema
 
