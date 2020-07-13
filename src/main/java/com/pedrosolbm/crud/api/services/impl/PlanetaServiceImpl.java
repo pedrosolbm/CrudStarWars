@@ -27,7 +27,7 @@ public class PlanetaServiceImpl implements PlanetaService {
 	@Autowired
 	private PlanetaRepository planetaRepository;
 
-	private static final String SWAPI_URL = "https://swapi.co/api/planets/?search=";
+	private static final String SWAPI_URL = "https://swapi.dev/api/planets/?search=";
 
 	@Override
 	public Planeta criarPlaneta(Planeta planeta) {
